@@ -12,7 +12,7 @@ This is a quick walkthrough the steps necessary for creating and connecting an o
 ![Imgur](https://i.imgur.com/GIdFpgcl.png)
 - Click on create new project located under the banner with the elephant
 ![Imgur](https://i.imgur.com/f3gyP7Fl.png)
-- Enter a project name and select the Postgres Version and a region near you.
+- Enter a project name, select the Postgres Version and a region near you. Then click the blue 'Create project' button.
 ![Imgur](https://i.imgur.com/4EWI144l.png)
 - You will see the following screen. Click on the dropdown under the words connect using on the left.
 ![Imgur](https://i.imgur.com/obbBKnwl.png)
