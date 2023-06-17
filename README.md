@@ -43,11 +43,11 @@ pip install django-environ
 ```python
 import environ
 ```
-### <b>3. Intialise environ</b>
+### <b>3. Initialize environ</b>
 
 ```python
 import environ
-# Initialise environment variables
+# Initialize environment variables
 env = environ.Env()
 environ.Env.read_env()
 ```
