@@ -40,10 +40,14 @@ pip install django-environ
 
 ### <b>2. Import environ in setting.py</b>
 
+Place this toward the top of the file.
+
 ```python
 import environ
 ```
 ### <b>3. Initialize environ</b>
+
+Initialize the environment variables under the imports.
 
 ```python
 import environ
